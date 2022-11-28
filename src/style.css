@@ -489,31 +489,30 @@ html {
     height: 100% !important;
   }
   
-  .blog-link {
-    color: white !important;
-    text-decoration: none !important;
-  }
-  
-  .blog-link:hover {
-    cursor: pointer !important;
-  }
-  
   .blog-card-view:hover {
     transform: scale(1.02) !important;
     overflow: hidden !important;
     box-shadow: 0 3px 3px 5px rgba(155, 88, 173, 0.65) !important;
+  }
+
+  .blog-heading {
+    color: white !important;
+    font-size: 2.3em !important;
+    font-weight: 500 !important;
+    padding-top: 10px !important;
+  }
+
+  .blog-section {
+    position: relative !important;
+    padding-top: 150px !important;
+    padding-bottom: 30px !important;
+    background-image: var(--section-background-color) !important;
   }
   
   .card-img-top {
     padding: 20px !important;
     opacity: 0.8 !important;
     border-radius: 10px !important;
-  }
-  
-  .blog-img {
-    padding: 0px !important;
-    opacity: 0.8 !important;
-    border-radius: 0px !important;
   }
   
   .btn-primary {
