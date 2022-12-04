@@ -2,6 +2,7 @@
   "name": "cloverbaxter",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://4-leafs-code.github.io/CloverBaxter/",
   "dependencies": {
     "@react-pdf/renderer": "^2.2.0",
     "@testing-library/jest-dom": "^5.16.5",
