@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CloverBaxter/static/css/main.c15204ce.css",
-    "main.js": "/CloverBaxter/static/js/main.aa2c4711.js",
+    "main.js": "/CloverBaxter/static/js/main.2c16d9b7.js",
     "static/js/787.2678b066.chunk.js": "/CloverBaxter/static/js/787.2678b066.chunk.js",
     "static/media/WD1.jpg": "/CloverBaxter/static/media/WD1.6c80a8d0c6f5dae8db6d.jpg",
     "static/media/FsUnicorn.png": "/CloverBaxter/static/media/FsUnicorn.0d0a38fe4daed931eea2.png",
@@ -15,11 +15,11 @@
     "static/media/pre.svg": "/CloverBaxter/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/CloverBaxter/index.html",
     "main.c15204ce.css.map": "/CloverBaxter/static/css/main.c15204ce.css.map",
-    "main.aa2c4711.js.map": "/CloverBaxter/static/js/main.aa2c4711.js.map",
+    "main.2c16d9b7.js.map": "/CloverBaxter/static/js/main.2c16d9b7.js.map",
     "787.2678b066.chunk.js.map": "/CloverBaxter/static/js/787.2678b066.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c15204ce.css",
-    "static/js/main.aa2c4711.js"
+    "static/js/main.2c16d9b7.js"
   ]
 }
