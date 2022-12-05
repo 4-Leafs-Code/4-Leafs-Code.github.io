@@ -34,8 +34,9 @@ function App() {
       <div className="App" id={load ? "no-scroll" : "scroll"}>
         <Navbar />
         <ScrollToTop />
-        <Routes>
+        <Routes basename={process.env.PUBLIC_URL}>
           <Route path="/" element={<Home />} />
+          <Route path="/home" element={<Blogs  />} />
           <Route path="/project" element={<Projects />} />
           <Route path="/about" element={<About />} />
           <Route path="/resume" element={<Resume />} />
