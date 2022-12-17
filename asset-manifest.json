@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/CloverBaxter/static/css/main.c15204ce.css",
-    "main.js": "/CloverBaxter/static/js/main.2c16d9b7.js",
-    "static/js/787.2678b066.chunk.js": "/CloverBaxter/static/js/787.2678b066.chunk.js",
-    "static/media/WD1.jpg": "/CloverBaxter/static/media/WD1.6c80a8d0c6f5dae8db6d.jpg",
-    "static/media/FsUnicorn.png": "/CloverBaxter/static/media/FsUnicorn.0d0a38fe4daed931eea2.png",
-    "static/media/4-Leafs-Pet.jpg": "/CloverBaxter/static/media/4-Leafs-Pet.fe84d8a4075d61d4095f.jpg",
-    "static/media/ProPic.jpg": "/CloverBaxter/static/media/ProPic.970a1162d35d8f1d2d89.jpg",
-    "static/media/about.png": "/CloverBaxter/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/CloverBaxterProfessionalResume.pdf": "/CloverBaxter/static/media/CloverBaxterProfessionalResume.2db19508869c436604e6.pdf",
-    "static/media/Zelda.jpg": "/CloverBaxter/static/media/Zelda.b7e68ec87f5f6115eb13.jpg",
-    "static/media/battlegame.jpg": "/CloverBaxter/static/media/battlegame.ff7c357f474b39c98c94.jpg",
-    "static/media/home-bg.jpg": "/CloverBaxter/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/pre.svg": "/CloverBaxter/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/CloverBaxter/index.html",
-    "main.c15204ce.css.map": "/CloverBaxter/static/css/main.c15204ce.css.map",
-    "main.2c16d9b7.js.map": "/CloverBaxter/static/js/main.2c16d9b7.js.map",
-    "787.2678b066.chunk.js.map": "/CloverBaxter/static/js/787.2678b066.chunk.js.map"
+    "main.css": "/static/css/main.c02f20b5.css",
+    "main.js": "/static/js/main.658f0cd0.js",
+    "static/js/787.2678b066.chunk.js": "/static/js/787.2678b066.chunk.js",
+    "static/media/WD1.jpg": "/static/media/WD1.6c80a8d0c6f5dae8db6d.jpg",
+    "static/media/FsUnicorn.png": "/static/media/FsUnicorn.0d0a38fe4daed931eea2.png",
+    "static/media/4-Leafs-Pet.jpg": "/static/media/4-Leafs-Pet.fe84d8a4075d61d4095f.jpg",
+    "static/media/ProPic.jpg": "/static/media/ProPic.970a1162d35d8f1d2d89.jpg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/CloverBaxterProfessionalResume.pdf": "/static/media/CloverBaxterProfessionalResume.2db19508869c436604e6.pdf",
+    "static/media/Zelda.jpg": "/static/media/Zelda.b7e68ec87f5f6115eb13.jpg",
+    "static/media/battlegame.jpg": "/static/media/battlegame.ff7c357f474b39c98c94.jpg",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.c02f20b5.css.map": "/static/css/main.c02f20b5.css.map",
+    "main.658f0cd0.js.map": "/static/js/main.658f0cd0.js.map",
+    "787.2678b066.chunk.js.map": "/static/js/787.2678b066.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c15204ce.css",
-    "static/js/main.2c16d9b7.js"
+    "static/css/main.c02f20b5.css",
+    "static/js/main.658f0cd0.js"
   ]
 }
