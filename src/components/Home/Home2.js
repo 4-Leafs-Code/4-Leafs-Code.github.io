@@ -1,11 +1,8 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Tilt from "react-parallax-tilt";
-import {
-  AiFillGithub,
-} from "react-icons/ai";
-import { FaLinkedinIn } from "react-icons/fa";
-import myImg from "../../Assets/ProPic.jpg";
+import { FaGithubSquare, FaDev, FaMedium } from "react-icons/fa";
+import myImg from "../../Assets/Fearless.png";
 
 function Home2() {
   return (
@@ -17,8 +14,14 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learned
-              something, I think… 🤷‍♂️
+              I fell in love with programming at the beginning of 2022. I am the founder and Co-Owner of{" "} 
+              <a
+                href="https://github.com/orgs/FearlessTech"
+                target="_blank" //Open in new tab
+                rel="noreferrer"
+              >
+                FearlessTech
+              </a>, an OPEN TO ALL, open source community on Github.  
               <br />
               <br />I am fluent in classics like
               <i>
@@ -40,7 +43,7 @@ function Home2() {
           <Col md={5} className="myImg">
             <br></br>
             <Tilt>
-              <img src={myImg} className="img-fluid mt-5" alt="ProfilePic" />
+              <img src={myImg} className="img-fluid mt-5" alt="ProfilePic" style={{ borderRadius: '25px' }}/>
             </Tilt>
           </Col>
         </Row>
@@ -58,17 +61,27 @@ function Home2() {
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
-                  <AiFillGithub />
+                  <FaGithubSquare />
                 </a>
               </li>
               <li className="social-icons">
                 <a
-                  href="https://github.com/4-Leafs-Code"
+                  href="https://dev.to/4leafscode"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
-                  <FaLinkedinIn />
+                  <FaDev />
+                </a>
+              </li>
+              <li className="social-icons">
+                <a
+                  href="https://medium.com/@cloversuebaxter"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour  home-social-icons"
+                >
+                  <FaMedium />
                 </a>
               </li>
             </ul>

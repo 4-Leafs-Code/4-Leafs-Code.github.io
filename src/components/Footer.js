@@ -15,7 +15,7 @@ function Footer() {
           <h3>Designed by 4-Leafs-Code</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} CB</h3>
+          <h3>Copyright © {year} RC</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">

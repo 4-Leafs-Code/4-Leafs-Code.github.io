@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import BlogCard from "./BlogCards";
 import Particle from "../Particle";
-import logo from "../../Assets/FsUnicorn.png";
+import logo from "../../Assets/Fearless.png";
 
 
 function Blogs() {
